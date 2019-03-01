@@ -1,9 +1,13 @@
 {
   "name": "lanscanner",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Small network utility for scanning your LAN for devices or in-use ip addresses",
   "main": "index.js",
   "scripts": {
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/afterburn/lanscanner.git"
   },
   "keywords": [
     "arp",
