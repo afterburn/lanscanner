@@ -1,0 +1,25 @@
+{
+  "name": "lanscanner",
+  "version": "0.0.4",
+  "description": "Small network utility for scanning your LAN for devices or in-use ip addresses",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "arp",
+    "lan",
+    "scan",
+    "scanner",
+    "network",
+    "utility"
+  ],
+  "author": {
+    "name": "Kevin Karsopawiro",
+    "email": "k.karsopawiro@gmail.com",
+    "url": "https://www.linkedin.com/in/afterburn/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^6.0.5"
+  }
+}
